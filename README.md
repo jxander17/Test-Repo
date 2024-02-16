@@ -1,5 +1,9 @@
 # Test-Repo
 
+Opens vs code from terminal
+
+code .
+
 ## Test for Git and Github
 
 ### Test by myself
