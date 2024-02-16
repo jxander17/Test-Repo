@@ -1,20 +1,33 @@
 # Test-Repo
 
-Test for Git and Github
+## Test for Git and Github
 
-git clone url
+### Test by myself
 
-Test by myself
+Clone a repository from Github
 
-git diff
+-  git clone url
 
-git status
+Check the difference between the local repository and the remote repository
 
-git add
+-  git diff
 
-git add .
+Check the status of the local repository
 
-git commit -m
+-  git status
 
-git push -u origin main
+Add a file to the local repository
 
+-  git add <filename>
+
+Commit the changes to the local repository
+
+-  git add .
+
+The commit message
+
+-  git commit -m
+
+Push the changes to the remote repository
+
+-  git push -u origin main
